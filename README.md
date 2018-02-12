@@ -2,7 +2,7 @@
 
 ## TASK 1A: Caesar Cipher
 
-**Folder Name** : Python Task  
+**Folder Name** : Python Task
 **File Name** : caesar.py
 
 **Description** : Utility to encrypt and decrypt message
@@ -34,3 +34,16 @@
     'http://localhost:5000/caesar/decrypt?message=EBIIL' \
     -H 'Cache-Control: no-cache'
 ```
+
+## TASK 2: Find the Path && TASK 2 Bonus: Find the Path II
+
+**Folder Name** : Python Task
+**File Name** : path.py
+
+**Description** : Connect neighbouring fields in this matrix to find exactly one path that sums up to 21.
+Print the matrix and the values and coordinates of the path on the command line.
+It will also print the shortest part
+
+**Command to find path**
+
+`python path.py`
