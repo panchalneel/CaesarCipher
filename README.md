@@ -7,8 +7,15 @@
 
 **Description** : Utility to encrypt and decrypt message
 
-**Command** : `python caesar.py encrypt hello`
+**Command** : `python caesar.py encrypt HELLO`
 
+**Sample Output**
+```EBIIL```
+
+**Command** : `python caesar.py decrypt EBIIL`
+
+**Sample Output**
+```HELLO```
 
 ## TASK 1B: Simple Web-Server
 
