@@ -1,6 +1,6 @@
 # CaesarCipher
 
-##TASK 1A: Caesar Cipher
+## TASK 1A: Caesar Cipher
 
 **Folder Name** : Python Task
 **File Name** : caesar.py
@@ -10,7 +10,7 @@
 **Command** : `python caesar.py encrypt hello`
 
 
-##TASK 1B: Simple Web-Server
+## TASK 1B: Simple Web-Server
 
 **Command to start server**
 
@@ -24,7 +24,7 @@
 **Encrypt message**
 ```curl -X GET \
   'http://localhost:5000/caesar/encrypt?message=hello' \
-  -H 'Cache-Control: no-cache' ```
+  -H 'Cache-Control: no-cache'```
 
 **Decrypt Message**
 
@@ -32,4 +32,3 @@
     'http://localhost:5000/caesar/decrypt?message=EBIIL' \
     -H 'Cache-Control: no-cache' ```
 
-    
