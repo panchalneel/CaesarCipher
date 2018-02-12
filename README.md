@@ -24,11 +24,13 @@
 **Encrypt message**
 ```curl -X GET \
   'http://localhost:5000/caesar/encrypt?message=hello' \
-  -H 'Cache-Control: no-cache'```
+  -H 'Cache-Control: no-cache'
+```
 
 **Decrypt Message**
 
-  ```curl -X GET \
+```
+    curl -X GET \
     'http://localhost:5000/caesar/decrypt?message=EBIIL' \
-    -H 'Cache-Control: no-cache' ```
-
+    -H 'Cache-Control: no-cache'
+```
