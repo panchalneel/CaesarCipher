@@ -37,7 +37,7 @@
 
 ## TASK 2: Find the Path && TASK 2 Bonus: Find the Path II
 
-**Folder Name** : Python Task
+**Folder Name** : Python Task  
 **File Name** : path.py
 
 **Description** : Connect neighbouring fields in this matrix to find exactly one path that sums up to 21.
